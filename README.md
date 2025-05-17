@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Hassan — a CSE undergrad passionate about building cool and meaningful tech.<br>🚀 Currently exploring open source, hackathons, and full-stack development.<br>📍 Using Arch btw
+Hi, <br>🚀I'm Hassan — a CSE undergrad passionate about building cool and meaningful tech.<br>🚀 Currently exploring open source, hackathons, and full-stack development.<br>📍 Using Arch btw
 
 
 ## 🌐 Socials:
