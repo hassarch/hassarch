@@ -91,6 +91,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" height="30" alt="yarn logo"  />
 </div>
 
+<div align="center">
+  <a href="https://open.spotify.com/user/hassan">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=hassan&count=1&unique=false" alt="Spotify recently played"  />
+  </a>
+</div>
 
 
 <div align="center">
