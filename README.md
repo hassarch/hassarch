@@ -1,15 +1,17 @@
 # Hi 👋, I'm Hassan
 
 <p align="center">
-  <img src="https://miro.medium.com/v2/resize:fit:640/0*yYHNI8pIsLlIpRgs.gif" width="400" />
+  <img src="https://miro.medium.com/v2/resize:fit:640/0*yYHNI8pIsLlIpRgs.gif" width="250" />
 </p>
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=hassarch&label=Profile%20views&color=0e75b6&style=flat" alt="hassarch" /> 
 </p>
 
-- **one step at a time**
-- 🌐 **[https://hassann.in]**
+- 🔭 **One step at a time**
+- 🌐 **[https://hassann.in](https://hassann.in)**
+- 📧 **hassanrj245@gmail.com**
+
 
 ---
 
