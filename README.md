@@ -1,4 +1,4 @@
-# Hi 👋, I'm Hassan
+# Hi , I'm Hassan
 
 <p align="left">
   <img src="https://miro.medium.com/v2/resize:fit:640/0*yYHNI8pIsLlIpRgs.gif" width="250" />
