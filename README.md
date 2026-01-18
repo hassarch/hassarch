@@ -1,61 +1,48 @@
-# Hi , I'm Hassan
+
+
+<h1>Hi , I'm Hassan</h1>
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FF5DA2&width=600&lines=Building+cool+sh*t;One+step+at+a+time" />
+</p>
+
+
+<table border="0">
+  <tr>
+    <td align="left" valign="top">
+      <p>
+        <a href="https://www.linkedin.com/in/hassan0777/" target="_blank">
+          <img src="https://skillicons.dev/icons?i=linkedin" />
+        </a>&nbsp;&nbsp;
+        <a href="https://x.com/sanxshade" target="_blank">
+          <img src="https://cdn.simpleicons.org/x/white" width="48" />
+        </a>&nbsp;&nbsp;
+        <a href="mailto:hassanrj245@gmail.com">
+          <img src="https://skillicons.dev/icons?i=gmail" />
+        </a>
+      </p>
+
+      
+  </td>
+
+  <td align="right" valign="top">
+      <img src="https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUyMHJ2NWQ2NjlzZTlieXJpZjhtMmp2enlyYXJ4MDhkanVkaGs2a3UwdyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ytBoIyQ7ArpRirP0oh/200w.gif" width="220" />
+    </td>
+  </tr>
+</table>
+
+
+
+
+
+## 💻 Tech Stack
 
 <p align="left">
-  <img src="https://miro.medium.com/v2/resize:fit:640/0*yYHNI8pIsLlIpRgs.gif" width="250" />
+  <img src="https://skillicons.dev/icons?i=c,java,js,python,ts,react,nextjs,nodejs,express,vite,mysql,mongodb,firebase,supabase,docker,aws,vercel,git,github" />
 </p>
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=hassarch&label=Profile%20views&color=0e75b6&style=flat" alt="hassarch" /> 
-</p>
-
-- 🔭 **One step at a time**
-- 🌐 **[https://hassann.in](https://hassann.in)**
-- 📧 **hassanrj245@gmail.com**
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=hassarch&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=hassarch&theme=catppuccin_mocha&hide_border=false)<br/>
 
 
----
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/hassarch" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="hassarch" height="30" width="40" />
-</a>
-<a href="https://linkedin.com/in/hassan0777" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hassan" height="30" width="40" />
-</a>
-</p>
-
----
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-<a href="#"><img src="https://skillicons.dev/icons?i=aws" width="40" height="40"/></a>
-<a href="#"><img src="https://skillicons.dev/icons?i=bootstrap" width="40" height="40"/></a>
-<a href="#"><img src="https://skillicons.dev/icons?i=c" width="40" height="40"/></a>
-<a href="#"><img src="https://skillicons.dev/icons?i=css" width="40" height="40"/></a>
-<a href="#"><img src="https://skillicons.dev/icons?i=docker" width="40" height="40"/></a>
-<a href="#"><img src="https://skillicons.dev/icons?i=firebase" width="40" height="40"/></a>
-<a href="#"><img src="https://skillicons.dev/icons?i=git" width="40" height="40"/></a>
-<a href="#"><img src="https://skillicons.dev/icons?i=html" width="40" height="40"/></a>
-<a href="#"><img src="https://skillicons.dev/icons?i=java" width="40" height="40"/></a>
-<a href="#"><img src="https://skillicons.dev/icons?i=js" width="40" height="40"/></a>
-<a href="#"><img src="https://skillicons.dev/icons?i=linux" width="40" height="40"/></a>
-<a href="#"><img src="https://skillicons.dev/icons?i=mongodb" width="40" height="40"/></a>
-<a href="#"><img src="https://skillicons.dev/icons?i=mysql" width="40" height="40"/></a>
-<a href="#"><img src="https://skillicons.dev/icons?i=nextjs" width="40" height="40"/></a>
-<a href="#"><img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40"/></a>
-<a href="#"><img src="https://skillicons.dev/icons?i=postman" width="40" height="40"/></a>
-<a href="#"><img src="https://skillicons.dev/icons?i=py" width="40" height="40"/></a>
-<a href="#"><img src="https://skillicons.dev/icons?i=pytorch" width="40" height="40"/></a>
-<a href="#"><img src="https://skillicons.dev/icons?i=react" width="40" height="40"/></a>
-<a href="#"><img src="https://skillicons.dev/icons?i=tailwind" width="40" height="40"/></a>
-<a href="#"><img src="https://skillicons.dev/icons?i=tensorflow" width="40" height="40"/></a>
-<a href="#"><img src="https://skillicons.dev/icons?i=ts" width="40" height="40"/></a>
-<a href="#"><img src="https://skillicons.dev/icons?i=vue" width="40" height="40"/></a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hassarch&" alt="hassarch" />
-</p>
+[![](https://visitcount.itsvg.in/api?id=hassarch&icon=0&color=11)](https://visitcount.itsvg.in)
