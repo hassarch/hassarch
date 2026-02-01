@@ -5,6 +5,14 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FF5DA2&width=600&lines=Building+cool+sh*t;One+step+at+a+time" />
 </p>
 
+## 👨‍💻 About Me
+
+- Full Stack Student Developer passionate about building scalable web applications
+- Currently exploring AI/ML and cloud technologies
+- Always learning, always building
+- Check out my work at [hassancodes.in](https://hassancodes.in)
+- 📧 Reach me at hassanrj245@gmail.com
+
 
 <table border="0">
   <tr>
