@@ -20,13 +20,7 @@
           <img src="https://skillicons.dev/icons?i=gmail" />
         </a>
       </p>
-
-      
   </td>
-
-  <td align="right" valign="top">
-      <img src="https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUyMHJ2NWQ2NjlzZTlieXJpZjhtMmp2enlyYXJ4MDhkanVkaGs2a3UwdyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ytBoIyQ7ArpRirP0oh/200w.gif" width="220" />
-    </td>
   </tr>
 </table>
 
