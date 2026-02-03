@@ -42,9 +42,3 @@
   <img src="https://skillicons.dev/icons?i=c,java,js,python,ts,react,nextjs,nodejs,express,vite,mysql,mongodb,firebase,supabase,docker,aws,vercel,git,github" />
 </p>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=hassarch&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=hassarch&theme=catppuccin_mocha&hide_border=false)<br/>
-
-
-[![](https://visitcount.itsvg.in/api?id=hassarch&icon=0&color=11)](https://visitcount.itsvg.in)
