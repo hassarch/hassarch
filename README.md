@@ -7,7 +7,7 @@
 
 ## 👨‍💻 About Me
 
-- Full Stack Student Developer passionate about building scalable web applications
+- Student Developer passionate about building scalable applications
 - Currently exploring AI/ML and cloud technologies
 - Always learning, always building
 - Check out my work at [hassancodes.in](https://hassancodes.in)
