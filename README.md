@@ -2,7 +2,7 @@
 
 <h1>Hi , I'm Hassan</h1>
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FF5DA2&width=600&lines=Building+cool+sh*t;One+step+at+a+time" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FF5DA2&width=600&lines=Building+cool+stuff;One+step+at+a+time" />
 </p>
 
 ## 👨‍💻 About Me
