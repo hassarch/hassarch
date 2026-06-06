@@ -39,6 +39,6 @@
 ## 💻 Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,java,js,python,ts,react,nextjs,nodejs,express,vite,mysql,mongodb,firebase,supabase,docker,aws,vercel,git,github,kubernetes" />
+  <img src="https://skillicons.dev/icons?i=java,js,python,ts,react,nextjs,nodejs,mysql,postgresql,mongodb,supabase,docker,aws,vercel,git,github" />
 </p>
 
