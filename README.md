@@ -14,10 +14,10 @@ whoami.exe
 
 ```ansi
 ┌──────────────────────────────────────────────┐
-│ [0;31m>[0m NAME    : Hassan
-│ [0;31m>[0m ALIAS   : your friendly neighborhood dev
-│ [0;31m>[0m FOCUS   : AI/ML + Cloud 
-│ [0;31m>[0m PORTAL  : hassancodes.in
+│ NAME    : Hassan
+│ ALIAS   : your friendly neighborhood dev
+│ FOCUS   : AI/ML + Cloud 
+│ PORTAL  : hassancodes.in
 └──────────────────────────────────────────────┘
 ```
 
